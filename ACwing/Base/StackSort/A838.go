@@ -34,7 +34,7 @@
 package main
 
 import (
-	_ "Algorithm/ACwing/Base/Stack"
+	_ "Algorithm_Go/ACwing/Base/Stack"
 	"fmt"
 )
 

@@ -1,6 +1,6 @@
 package main
 
-import . "Algorithm/ListNode"
+import . "Algorithm_Go/ListNode"
 
 func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	dummy := &ListNode{Next: head}
