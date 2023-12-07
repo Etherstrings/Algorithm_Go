@@ -1,7 +1,6 @@
 package main
 
 import (
-	_ "Algorithm/ACwing/Base/Stack"
 	"fmt"
 )
 
